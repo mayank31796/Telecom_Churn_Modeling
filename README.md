@@ -1,1 +1,3 @@
-# Imbalanced data handling 
+# Telecom Churn Modeling (Comparision and analysis of models for Imbalanced data)
+
+
