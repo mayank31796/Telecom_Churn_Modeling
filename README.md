@@ -10,30 +10,37 @@ In this Telecom churn data set the classes exhibit high imbalance with churned t
 In the initial modeling without handiling the imbalance in the data.
 
 Logistic Regression Model :
+
 Accuracy 81.5%
 AUC 72%
 
 Decision Tree Model:
+
 Accuracy 73.4%
 AUC 64%
 
-KNN Classifier
+KNN Classifier:
+
 Accuracy 79.1%
 AUC 65%
 
-Support Vector Classifier
+Support Vector Classifier:
+
 Accuracy 79.57%
 AUC 64.7%
 
-Neural Network Classifier
+Neural Network Classifier:
+
 Accuracy 81%
 AUC 69.2%
 
-AdaBoost
+AdaBoost:
+
 Accuracy 82%
 AUC 72%
 
-Gradient Boost
+Gradient Boost:
+
 Accuracy 81.5%
 AUC 71.1%
 
@@ -58,27 +65,33 @@ This way we have a balance in class and also avoid information loss.
 
 ### Modeling using SMOTE
 
-Logistic Regression Model :
+Logistic Regression Model:
+
 Accuracy 86.4%
 AUC 86.4%
 
 AdaBoost Model:
+
 Accuracy 85.9%
 AUC 85.9%
 
-Gradient Boost Classifier
+Gradient Boost Classifier:
+
 Accuracy 86.4%
 AUC 86.4%
 
-XGBoost Model
+XGBoost Model:
+
 Accuracy 86.6%
 AUC 86.6%
 
-Light GBM
+Light GBM:
+
 Accuracy 85.2%
 AUC 85.2%
 
-CatBoost
+CatBoost:
+
 Accuracy 86.2%
 AUC 86.2%
 
